@@ -1,3 +1,7 @@
+1 2
+
+
+
 # I-think-therefor-I-solve
 
 My first code
@@ -23,8 +27,4 @@ wew43e
 
 kjuguiogti
 
-
-555
-
-1
 
