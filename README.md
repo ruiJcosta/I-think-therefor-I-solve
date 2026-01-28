@@ -12,8 +12,6 @@
 69
 70
 71
-72
-73
 
 # I-think-therefor-I-solve
 
